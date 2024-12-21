@@ -1,4 +1,4 @@
-public class Reverse {
+public class AngkaMundur {
     public static void printReverse(int n) {
         if (n == 0) {
             return;
